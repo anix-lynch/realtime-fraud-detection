@@ -1,0 +1,500 @@
+{"user_id": "user_00008", "transaction_id": "txn_000043", "amount": 216.16, "timestamp": "2025-01-15T00:00:00Z", "merchant": "Walmart", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00084", "transaction_id": "txn_000482", "amount": 111.04, "timestamp": "2025-01-15T00:03:00Z", "merchant": "Starbucks", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00012", "transaction_id": "txn_000436", "amount": 496.4, "timestamp": "2025-01-15T00:04:00Z", "merchant": "Google", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00043", "transaction_id": "txn_000372", "amount": 240.4, "timestamp": "2025-01-15T00:05:00Z", "merchant": "Google", "location": "Boston", "payment_method": "paypal"}
+{"user_id": "user_00095", "transaction_id": "txn_000284", "amount": 235.12, "timestamp": "2025-01-15T00:06:00Z", "merchant": "Target", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00062", "transaction_id": "txn_000393", "amount": 129.98, "timestamp": "2025-01-15T00:10:00Z", "merchant": "Best Buy", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00022", "transaction_id": "txn_000285", "amount": 398.41, "timestamp": "2025-01-15T00:15:00Z", "merchant": "Uber", "location": "Denver", "payment_method": "credit_card"}
+{"user_id": "user_00039", "transaction_id": "txn_000180", "amount": 153.39, "timestamp": "2025-01-15T00:19:00Z", "merchant": "Best Buy", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00078", "transaction_id": "txn_000018", "amount": 303.42, "timestamp": "2025-01-15T00:20:00Z", "merchant": "McDonalds", "location": "Chicago", "payment_method": "debit_card"}
+{"user_id": "user_00004", "transaction_id": "txn_000157", "amount": 226.14, "timestamp": "2025-01-15T00:23:00Z", "merchant": "Target", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00049", "transaction_id": "txn_000352", "amount": 330.35, "timestamp": "2025-01-15T00:25:00Z", "merchant": "Google", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00023", "transaction_id": "txn_000229", "amount": 264.33, "timestamp": "2025-01-15T00:29:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00038", "transaction_id": "txn_000237", "amount": 394.6, "timestamp": "2025-01-15T00:30:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00051", "transaction_id": "txn_000389", "amount": 134.91, "timestamp": "2025-01-15T00:33:00Z", "merchant": "Starbucks", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00046", "transaction_id": "txn_000024", "amount": 89.56, "timestamp": "2025-01-15T00:34:00Z", "merchant": "Target", "location": "Boston", "payment_method": "apple_pay"}
+{"user_id": "user_00020", "transaction_id": "txn_000308", "amount": 35.16, "timestamp": "2025-01-15T00:39:00Z", "merchant": "Apple", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00099", "transaction_id": "txn_000462", "amount": 3.77, "timestamp": "2025-01-15T00:44:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000034", "amount": 469.46, "timestamp": "2025-01-15T00:45:00Z", "merchant": "Target", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00045", "transaction_id": "txn_000269", "amount": 414.22, "timestamp": "2025-01-15T00:45:00Z", "merchant": "Netflix", "location": "Miami", "payment_method": "credit_card"}
+{"user_id": "user_00066", "transaction_id": "txn_000286", "amount": 210.67, "timestamp": "2025-01-15T00:45:00Z", "merchant": "Starbucks", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00053", "transaction_id": "txn_000125", "amount": 472.24, "timestamp": "2025-01-15T00:47:00Z", "merchant": "Amazon", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00096", "transaction_id": "txn_000163", "amount": 55.59, "timestamp": "2025-01-15T00:48:00Z", "merchant": "McDonalds", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00022", "transaction_id": "txn_000314", "amount": 358.74, "timestamp": "2025-01-15T00:48:00Z", "merchant": "Target", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00056", "transaction_id": "txn_000203", "amount": 103.01, "timestamp": "2025-01-15T00:50:00Z", "merchant": "McDonalds", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00023", "transaction_id": "txn_000429", "amount": 189.42, "timestamp": "2025-01-15T00:50:00Z", "merchant": "Target", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00099", "transaction_id": "txn_000094", "amount": 136.43, "timestamp": "2025-01-15T00:54:00Z", "merchant": "Google", "location": "Boston", "payment_method": "apple_pay"}
+{"user_id": "user_00087", "transaction_id": "txn_000130", "amount": 46.76, "timestamp": "2025-01-15T00:54:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00011", "transaction_id": "txn_000187", "amount": 131.52, "timestamp": "2025-01-15T00:54:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "debit_card"}
+{"user_id": "user_00035", "transaction_id": "txn_000407", "amount": 280.42, "timestamp": "2025-01-15T01:01:00Z", "merchant": "Apple", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00031", "transaction_id": "txn_000409", "amount": 80.73, "timestamp": "2025-01-15T01:02:00Z", "merchant": "McDonalds", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00095", "transaction_id": "txn_000368", "amount": 349.47, "timestamp": "2025-01-15T01:05:00Z", "merchant": "Amazon", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00010", "transaction_id": "txn_000282", "amount": 48.94, "timestamp": "2025-01-15T01:07:00Z", "merchant": "McDonalds", "location": "Phoenix", "payment_method": "apple_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000323", "amount": 283.21, "timestamp": "2025-01-15T01:09:00Z", "merchant": "Netflix", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000136", "amount": 469.45, "timestamp": "2025-01-15T01:14:00Z", "merchant": "Apple", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000107", "amount": 314.43, "timestamp": "2025-01-15T01:18:00Z", "merchant": "Amazon", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00030", "transaction_id": "txn_000433", "amount": 192.07, "timestamp": "2025-01-15T01:18:00Z", "merchant": "McDonalds", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00033", "transaction_id": "txn_000092", "amount": 265.17, "timestamp": "2025-01-15T01:27:00Z", "merchant": "Amazon", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00068", "transaction_id": "txn_000114", "amount": 245.13, "timestamp": "2025-01-15T01:27:00Z", "merchant": "Apple", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00010", "transaction_id": "txn_000296", "amount": 189.27, "timestamp": "2025-01-15T01:30:00Z", "merchant": "Uber", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00083", "transaction_id": "txn_000080", "amount": 328.6, "timestamp": "2025-01-15T01:36:00Z", "merchant": "Google", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00051", "transaction_id": "txn_000160", "amount": 4.72, "timestamp": "2025-01-15T01:38:00Z", "merchant": "Apple", "location": "Miami", "payment_method": "paypal"}
+{"user_id": "user_00067", "transaction_id": "txn_000115", "amount": 161.47, "timestamp": "2025-01-15T01:39:00Z", "merchant": "Netflix", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00098", "transaction_id": "txn_000029", "amount": 357.16, "timestamp": "2025-01-15T01:46:00Z", "merchant": "Uber", "location": "Phoenix", "payment_method": "apple_pay"}
+{"user_id": "user_00011", "transaction_id": "txn_000499", "amount": 129.25, "timestamp": "2025-01-15T01:49:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "paypal"}
+{"user_id": "user_00061", "transaction_id": "txn_000287", "amount": 74.47, "timestamp": "2025-01-15T01:51:00Z", "merchant": "Google", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00070", "transaction_id": "txn_000261", "amount": 237.73, "timestamp": "2025-01-15T02:08:00Z", "merchant": "McDonalds", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00038", "transaction_id": "txn_000074", "amount": 370.12, "timestamp": "2025-01-15T02:16:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00007", "transaction_id": "txn_000473", "amount": 314.06, "timestamp": "2025-01-15T02:22:00Z", "merchant": "Starbucks", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00004", "transaction_id": "txn_000479", "amount": 426.73, "timestamp": "2025-01-15T02:25:00Z", "merchant": "Google", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00070", "transaction_id": "txn_000458", "amount": 427.33, "timestamp": "2025-01-15T02:29:00Z", "merchant": "Target", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00025", "transaction_id": "txn_000291", "amount": 326.04, "timestamp": "2025-01-15T02:31:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "credit_card"}
+{"user_id": "user_00084", "transaction_id": "txn_000446", "amount": 203.06, "timestamp": "2025-01-15T02:39:00Z", "merchant": "Uber", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00028", "transaction_id": "txn_000091", "amount": 11.04, "timestamp": "2025-01-15T02:43:00Z", "merchant": "Apple", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00091", "transaction_id": "txn_000222", "amount": 159.08, "timestamp": "2025-01-15T02:44:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00067", "transaction_id": "txn_000192", "amount": 96.49, "timestamp": "2025-01-15T02:45:00Z", "merchant": "Netflix", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000437", "amount": 20.91, "timestamp": "2025-01-15T02:50:00Z", "merchant": "Google", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00024", "transaction_id": "txn_000279", "amount": 16.97, "timestamp": "2025-01-15T02:56:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00079", "transaction_id": "txn_000054", "amount": 373.7, "timestamp": "2025-01-15T03:00:00Z", "merchant": "Best Buy", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00034", "transaction_id": "txn_000082", "amount": 399.41, "timestamp": "2025-01-15T03:01:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "debit_card"}
+{"user_id": "user_00099", "transaction_id": "txn_000014", "amount": 98.9, "timestamp": "2025-01-15T03:05:00Z", "merchant": "Uber", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00024", "transaction_id": "txn_000058", "amount": 390.03, "timestamp": "2025-01-15T03:06:00Z", "merchant": "Walmart", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00017", "transaction_id": "txn_000344", "amount": 300.4, "timestamp": "2025-01-15T03:10:00Z", "merchant": "Walmart", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00060", "transaction_id": "txn_000274", "amount": 22.1, "timestamp": "2025-01-15T03:12:00Z", "merchant": "Amazon", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00085", "transaction_id": "txn_000391", "amount": 416.77, "timestamp": "2025-01-15T03:15:00Z", "merchant": "Apple", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00013", "transaction_id": "txn_000469", "amount": 218.07, "timestamp": "2025-01-15T03:16:00Z", "merchant": "Amazon", "location": "Houston", "payment_method": "credit_card"}
+{"user_id": "user_00053", "transaction_id": "txn_000316", "amount": 68.61, "timestamp": "2025-01-15T03:18:00Z", "merchant": "McDonalds", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00014", "transaction_id": "txn_000154", "amount": 461.69, "timestamp": "2025-01-15T03:26:00Z", "merchant": "McDonalds", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00020", "transaction_id": "txn_000122", "amount": 77.16, "timestamp": "2025-01-15T03:32:00Z", "merchant": "Amazon", "location": "Boston", "payment_method": "apple_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000434", "amount": 291.69, "timestamp": "2025-01-15T03:32:00Z", "merchant": "Netflix", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00072", "transaction_id": "txn_000457", "amount": 314.47, "timestamp": "2025-01-15T03:34:00Z", "merchant": "Target", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00057", "transaction_id": "txn_000256", "amount": 286.49, "timestamp": "2025-01-15T03:35:00Z", "merchant": "Google", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00063", "transaction_id": "txn_000306", "amount": 307.52, "timestamp": "2025-01-15T03:36:00Z", "merchant": "Amazon", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00092", "transaction_id": "txn_000347", "amount": 305.73, "timestamp": "2025-01-15T03:39:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "credit_card"}
+{"user_id": "user_00007", "transaction_id": "txn_000397", "amount": 325.12, "timestamp": "2025-01-15T03:41:00Z", "merchant": "Target", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00022", "transaction_id": "txn_000112", "amount": 63.49, "timestamp": "2025-01-15T03:42:00Z", "merchant": "Netflix", "location": "San Francisco", "payment_method": "apple_pay"}
+{"user_id": "user_00033", "transaction_id": "txn_000223", "amount": 390.37, "timestamp": "2025-01-15T03:42:00Z", "merchant": "Apple", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00098", "transaction_id": "txn_000020", "amount": 431.91, "timestamp": "2025-01-15T03:52:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00093", "transaction_id": "txn_000176", "amount": 211.74, "timestamp": "2025-01-15T03:52:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "debit_card"}
+{"user_id": "user_00031", "transaction_id": "txn_000240", "amount": 470.19, "timestamp": "2025-01-15T03:53:00Z", "merchant": "Netflix", "location": "San Francisco", "payment_method": "apple_pay"}
+{"user_id": "user_00057", "transaction_id": "txn_000104", "amount": 97.61, "timestamp": "2025-01-15T03:54:00Z", "merchant": "Apple", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00099", "transaction_id": "txn_000194", "amount": 180.82, "timestamp": "2025-01-15T03:56:00Z", "merchant": "Best Buy", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00006", "transaction_id": "txn_000179", "amount": 77.35, "timestamp": "2025-01-15T03:58:00Z", "merchant": "Starbucks", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00033", "transaction_id": "txn_000070", "amount": 372.97, "timestamp": "2025-01-15T04:00:00Z", "merchant": "Starbucks", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000311", "amount": 469.76, "timestamp": "2025-01-15T04:02:00Z", "merchant": "Google", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00081", "transaction_id": "txn_000452", "amount": 206.64, "timestamp": "2025-01-15T04:05:00Z", "merchant": "Netflix", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00058", "transaction_id": "txn_000083", "amount": 410.29, "timestamp": "2025-01-15T04:07:00Z", "merchant": "Starbucks", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000012", "amount": 162.88, "timestamp": "2025-01-15T04:10:00Z", "merchant": "Starbucks", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00088", "transaction_id": "txn_000356", "amount": 309.2, "timestamp": "2025-01-15T04:12:00Z", "merchant": "Starbucks", "location": "Chicago", "payment_method": "paypal"}
+{"user_id": "user_00014", "transaction_id": "txn_000081", "amount": 57.82, "timestamp": "2025-01-15T04:22:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00053", "transaction_id": "txn_000227", "amount": 121.52, "timestamp": "2025-01-15T04:22:00Z", "merchant": "Best Buy", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00031", "transaction_id": "txn_000265", "amount": 367.36, "timestamp": "2025-01-15T04:23:00Z", "merchant": "Apple", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00054", "transaction_id": "txn_000197", "amount": 82.85, "timestamp": "2025-01-15T04:26:00Z", "merchant": "Target", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00022", "transaction_id": "txn_000129", "amount": 157.38, "timestamp": "2025-01-15T04:27:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00099", "transaction_id": "txn_000067", "amount": 374.53, "timestamp": "2025-01-15T04:28:00Z", "merchant": "Walmart", "location": "Boston", "payment_method": "paypal"}
+{"user_id": "user_00076", "transaction_id": "txn_000336", "amount": 492.07, "timestamp": "2025-01-15T04:28:00Z", "merchant": "Apple", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00060", "transaction_id": "txn_000432", "amount": 168.21, "timestamp": "2025-01-15T04:28:00Z", "merchant": "Walmart", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00025", "transaction_id": "txn_000132", "amount": 92.39, "timestamp": "2025-01-15T04:37:00Z", "merchant": "Uber", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00098", "transaction_id": "txn_000413", "amount": 306.61, "timestamp": "2025-01-15T04:37:00Z", "merchant": "Best Buy", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00099", "transaction_id": "txn_000490", "amount": 83.74, "timestamp": "2025-01-15T04:38:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00040", "transaction_id": "txn_000055", "amount": 407.3, "timestamp": "2025-01-15T04:39:00Z", "merchant": "Apple", "location": "Seattle", "payment_method": "debit_card"}
+{"user_id": "user_00085", "transaction_id": "txn_000331", "amount": 414.99, "timestamp": "2025-01-15T04:41:00Z", "merchant": "Target", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00024", "transaction_id": "txn_000078", "amount": 397.2, "timestamp": "2025-01-15T04:54:00Z", "merchant": "Starbucks", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00039", "transaction_id": "txn_000445", "amount": 471.08, "timestamp": "2025-01-15T04:58:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "debit_card"}
+{"user_id": "user_00025", "transaction_id": "txn_000036", "amount": 463.76, "timestamp": "2025-01-15T05:03:00Z", "merchant": "Uber", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00018", "transaction_id": "txn_000146", "amount": 340.26, "timestamp": "2025-01-15T05:03:00Z", "merchant": "Amazon", "location": "Denver", "payment_method": "credit_card"}
+{"user_id": "user_00007", "transaction_id": "txn_000303", "amount": 290.89, "timestamp": "2025-01-15T05:11:00Z", "merchant": "Uber", "location": "Denver", "payment_method": "credit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000266", "amount": 162.2, "timestamp": "2025-01-15T05:13:00Z", "merchant": "Google", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00016", "transaction_id": "txn_000447", "amount": 447.67, "timestamp": "2025-01-15T05:15:00Z", "merchant": "Walmart", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00071", "transaction_id": "txn_000041", "amount": 352.2, "timestamp": "2025-01-15T05:26:00Z", "merchant": "Uber", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00008", "transaction_id": "txn_000241", "amount": 77.37, "timestamp": "2025-01-15T05:28:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000270", "amount": 305.1, "timestamp": "2025-01-15T05:29:00Z", "merchant": "Amazon", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00035", "transaction_id": "txn_000355", "amount": 82.54, "timestamp": "2025-01-15T05:29:00Z", "merchant": "Target", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00003", "transaction_id": "txn_000420", "amount": 255.29, "timestamp": "2025-01-15T05:31:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00033", "transaction_id": "txn_000280", "amount": 293.52, "timestamp": "2025-01-15T05:37:00Z", "merchant": "Amazon", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00096", "transaction_id": "txn_000322", "amount": 248.11, "timestamp": "2025-01-15T05:41:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00007", "transaction_id": "txn_000369", "amount": 155.98, "timestamp": "2025-01-15T05:42:00Z", "merchant": "Google", "location": "Phoenix", "payment_method": "apple_pay"}
+{"user_id": "user_00058", "transaction_id": "txn_000236", "amount": 290.59, "timestamp": "2025-01-15T05:46:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00000", "transaction_id": "txn_000149", "amount": 353.25, "timestamp": "2025-01-15T05:47:00Z", "merchant": "Starbucks", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00009", "transaction_id": "txn_000239", "amount": 264.35, "timestamp": "2025-01-15T05:51:00Z", "merchant": "Amazon", "location": "New York", "payment_method": "google_pay"}
+{"user_id": "user_00080", "transaction_id": "txn_000215", "amount": 50.19, "timestamp": "2025-01-15T05:57:00Z", "merchant": "Apple", "location": "Boston", "payment_method": "apple_pay"}
+{"user_id": "user_00087", "transaction_id": "txn_000448", "amount": 479.52, "timestamp": "2025-01-15T05:58:00Z", "merchant": "Starbucks", "location": "Chicago", "payment_method": "debit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000089", "amount": 162.57, "timestamp": "2025-01-15T06:08:00Z", "merchant": "Best Buy", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00006", "transaction_id": "txn_000377", "amount": 162.86, "timestamp": "2025-01-15T06:10:00Z", "merchant": "Uber", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00011", "transaction_id": "txn_000097", "amount": 470.23, "timestamp": "2025-01-15T06:14:00Z", "merchant": "Walmart", "location": "Boston", "payment_method": "google_pay"}
+{"user_id": "user_00096", "transaction_id": "txn_000135", "amount": 103.79, "timestamp": "2025-01-15T06:19:00Z", "merchant": "Google", "location": "Boston", "payment_method": "paypal"}
+{"user_id": "user_00099", "transaction_id": "txn_000002", "amount": 80.65, "timestamp": "2025-01-15T06:20:00Z", "merchant": "Target", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000147", "amount": 388.94, "timestamp": "2025-01-15T06:24:00Z", "merchant": "Uber", "location": "Boston", "payment_method": "paypal"}
+{"user_id": "user_00076", "transaction_id": "txn_000232", "amount": 222.42, "timestamp": "2025-01-15T06:32:00Z", "merchant": "Uber", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00053", "transaction_id": "txn_000277", "amount": 436.18, "timestamp": "2025-01-15T06:32:00Z", "merchant": "Best Buy", "location": "Boston", "payment_method": "google_pay"}
+{"user_id": "user_00070", "transaction_id": "txn_000273", "amount": 120.49, "timestamp": "2025-01-15T06:33:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00053", "transaction_id": "txn_000216", "amount": 395.23, "timestamp": "2025-01-15T06:37:00Z", "merchant": "Google", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00060", "transaction_id": "txn_000449", "amount": 71.46, "timestamp": "2025-01-15T06:38:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00051", "transaction_id": "txn_000071", "amount": 26.86, "timestamp": "2025-01-15T06:39:00Z", "merchant": "Netflix", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00016", "transaction_id": "txn_000185", "amount": 371.92, "timestamp": "2025-01-15T06:40:00Z", "merchant": "Apple", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000481", "amount": 362.57, "timestamp": "2025-01-15T06:41:00Z", "merchant": "Uber", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000295", "amount": 76.21, "timestamp": "2025-01-15T07:01:00Z", "merchant": "Starbucks", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00071", "transaction_id": "txn_000040", "amount": 333.6, "timestamp": "2025-01-15T07:10:00Z", "merchant": "Netflix", "location": "Boston", "payment_method": "google_pay"}
+{"user_id": "user_00056", "transaction_id": "txn_000173", "amount": 458.1, "timestamp": "2025-01-15T07:20:00Z", "merchant": "Walmart", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00093", "transaction_id": "txn_000209", "amount": 306.54, "timestamp": "2025-01-15T07:25:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "credit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000379", "amount": 478.1, "timestamp": "2025-01-15T07:25:00Z", "merchant": "Walmart", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00098", "transaction_id": "txn_000392", "amount": 65.35, "timestamp": "2025-01-15T07:27:00Z", "merchant": "Google", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00025", "transaction_id": "txn_000153", "amount": 331.88, "timestamp": "2025-01-15T07:29:00Z", "merchant": "Amazon", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00025", "transaction_id": "txn_000426", "amount": 77.74, "timestamp": "2025-01-15T07:30:00Z", "merchant": "Uber", "location": "Houston", "payment_method": "credit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000290", "amount": 230.37, "timestamp": "2025-01-15T07:33:00Z", "merchant": "McDonalds", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00051", "transaction_id": "txn_000440", "amount": 74.89, "timestamp": "2025-01-15T07:35:00Z", "merchant": "Walmart", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00012", "transaction_id": "txn_000339", "amount": 333.36, "timestamp": "2025-01-15T07:40:00Z", "merchant": "McDonalds", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00048", "transaction_id": "txn_000294", "amount": 494.91, "timestamp": "2025-01-15T07:43:00Z", "merchant": "Amazon", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00032", "transaction_id": "txn_000119", "amount": 224.58, "timestamp": "2025-01-15T07:44:00Z", "merchant": "Walmart", "location": "San Francisco", "payment_method": "apple_pay"}
+{"user_id": "user_00093", "transaction_id": "txn_000127", "amount": 392.89, "timestamp": "2025-01-15T07:44:00Z", "merchant": "Uber", "location": "Denver", "payment_method": "paypal"}
+{"user_id": "user_00003", "transaction_id": "txn_000459", "amount": 369.72, "timestamp": "2025-01-15T07:46:00Z", "merchant": "McDonalds", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00048", "transaction_id": "txn_000140", "amount": 122.53, "timestamp": "2025-01-15T07:47:00Z", "merchant": "Walmart", "location": "San Francisco", "payment_method": "google_pay"}
+{"user_id": "user_00027", "transaction_id": "txn_000191", "amount": 342.03, "timestamp": "2025-01-15T07:48:00Z", "merchant": "Walmart", "location": "Denver", "payment_method": "credit_card"}
+{"user_id": "user_00073", "transaction_id": "txn_000422", "amount": 24.37, "timestamp": "2025-01-15T07:48:00Z", "merchant": "McDonalds", "location": "New York", "payment_method": "google_pay"}
+{"user_id": "user_00018", "transaction_id": "txn_000334", "amount": 389.18, "timestamp": "2025-01-15T07:50:00Z", "merchant": "Best Buy", "location": "Boston", "payment_method": "apple_pay"}
+{"user_id": "user_00054", "transaction_id": "txn_000374", "amount": 98.29, "timestamp": "2025-01-15T07:54:00Z", "merchant": "Walmart", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00085", "transaction_id": "txn_000456", "amount": 83.1, "timestamp": "2025-01-15T07:59:00Z", "merchant": "Google", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00059", "transaction_id": "txn_000304", "amount": 5.34, "timestamp": "2025-01-15T08:02:00Z", "merchant": "Uber", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00089", "transaction_id": "txn_000017", "amount": 107.93, "timestamp": "2025-01-15T08:07:00Z", "merchant": "Apple", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00064", "transaction_id": "txn_000087", "amount": 199.34, "timestamp": "2025-01-15T08:12:00Z", "merchant": "Target", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000009", "amount": 145.96, "timestamp": "2025-01-15T08:14:00Z", "merchant": "Uber", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00014", "transaction_id": "txn_000001", "amount": 388.54, "timestamp": "2025-01-15T08:21:00Z", "merchant": "Target", "location": "Chicago", "payment_method": "debit_card"}
+{"user_id": "user_00088", "transaction_id": "txn_000364", "amount": 304.05, "timestamp": "2025-01-15T08:21:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00075", "transaction_id": "txn_000465", "amount": 319.98, "timestamp": "2025-01-15T08:21:00Z", "merchant": "Starbucks", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00052", "transaction_id": "txn_000401", "amount": 184.65, "timestamp": "2025-01-15T08:22:00Z", "merchant": "Amazon", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00005", "transaction_id": "txn_000010", "amount": 95.53, "timestamp": "2025-01-15T08:25:00Z", "merchant": "Google", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00076", "transaction_id": "txn_000077", "amount": 224.41, "timestamp": "2025-01-15T08:25:00Z", "merchant": "Target", "location": "Boston", "payment_method": "paypal"}
+{"user_id": "user_00094", "transaction_id": "txn_000325", "amount": 238.85, "timestamp": "2025-01-15T08:31:00Z", "merchant": "Amazon", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00032", "transaction_id": "txn_000385", "amount": 103.2, "timestamp": "2025-01-15T08:38:00Z", "merchant": "Google", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00054", "transaction_id": "txn_000478", "amount": 33.13, "timestamp": "2025-01-15T08:39:00Z", "merchant": "Target", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00024", "transaction_id": "txn_000164", "amount": 146.3, "timestamp": "2025-01-15T08:41:00Z", "merchant": "Amazon", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00091", "transaction_id": "txn_000039", "amount": 345.5, "timestamp": "2025-01-15T08:45:00Z", "merchant": "Apple", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00043", "transaction_id": "txn_000171", "amount": 412.71, "timestamp": "2025-01-15T08:47:00Z", "merchant": "McDonalds", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00034", "transaction_id": "txn_000403", "amount": 283.46, "timestamp": "2025-01-15T08:49:00Z", "merchant": "Uber", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000090", "amount": 281.6, "timestamp": "2025-01-15T08:51:00Z", "merchant": "Netflix", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00076", "transaction_id": "txn_000072", "amount": 219.66, "timestamp": "2025-01-15T08:52:00Z", "merchant": "McDonalds", "location": "Seattle", "payment_method": "debit_card"}
+{"user_id": "user_00012", "transaction_id": "txn_000354", "amount": 355.6, "timestamp": "2025-01-15T08:52:00Z", "merchant": "Target", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00082", "transaction_id": "txn_000031", "amount": 96.16, "timestamp": "2025-01-15T08:56:00Z", "merchant": "Starbucks", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00025", "transaction_id": "txn_000441", "amount": 284.59, "timestamp": "2025-01-15T08:57:00Z", "merchant": "McDonalds", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00096", "transaction_id": "txn_000450", "amount": 83.23, "timestamp": "2025-01-15T09:01:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00015", "transaction_id": "txn_000076", "amount": 469.18, "timestamp": "2025-01-15T09:03:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00050", "transaction_id": "txn_000414", "amount": 276.12, "timestamp": "2025-01-15T09:03:00Z", "merchant": "McDonalds", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000177", "amount": 352.22, "timestamp": "2025-01-15T09:07:00Z", "merchant": "Walmart", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00081", "transaction_id": "txn_000396", "amount": 312.42, "timestamp": "2025-01-15T09:07:00Z", "merchant": "Starbucks", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00057", "transaction_id": "txn_000202", "amount": 376.19, "timestamp": "2025-01-15T09:08:00Z", "merchant": "Starbucks", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00040", "transaction_id": "txn_000431", "amount": 315.97, "timestamp": "2025-01-15T09:11:00Z", "merchant": "Uber", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00089", "transaction_id": "txn_000102", "amount": 79.54, "timestamp": "2025-01-15T09:12:00Z", "merchant": "Apple", "location": "Phoenix", "payment_method": "debit_card"}
+{"user_id": "user_00022", "transaction_id": "txn_000383", "amount": 446.76, "timestamp": "2025-01-15T09:12:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00093", "transaction_id": "txn_000051", "amount": 115.85, "timestamp": "2025-01-15T09:13:00Z", "merchant": "Amazon", "location": "Houston", "payment_method": "credit_card"}
+{"user_id": "user_00030", "transaction_id": "txn_000249", "amount": 148.05, "timestamp": "2025-01-15T09:15:00Z", "merchant": "Netflix", "location": "Miami", "payment_method": "paypal"}
+{"user_id": "user_00079", "transaction_id": "txn_000488", "amount": 226.29, "timestamp": "2025-01-15T09:15:00Z", "merchant": "Netflix", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00029", "transaction_id": "txn_000438", "amount": 176.66, "timestamp": "2025-01-15T09:22:00Z", "merchant": "Best Buy", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00050", "transaction_id": "txn_000214", "amount": 78.98, "timestamp": "2025-01-15T09:29:00Z", "merchant": "Uber", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00077", "transaction_id": "txn_000272", "amount": 393.39, "timestamp": "2025-01-15T09:31:00Z", "merchant": "Walmart", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00063", "transaction_id": "txn_000167", "amount": 108.46, "timestamp": "2025-01-15T09:32:00Z", "merchant": "Uber", "location": "New York", "payment_method": "credit_card"}
+{"user_id": "user_00037", "transaction_id": "txn_000328", "amount": 123.16, "timestamp": "2025-01-15T09:37:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00043", "transaction_id": "txn_000485", "amount": 475.61, "timestamp": "2025-01-15T09:38:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "google_pay"}
+{"user_id": "user_00004", "transaction_id": "txn_000361", "amount": 498.81, "timestamp": "2025-01-15T09:42:00Z", "merchant": "Netflix", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00008", "transaction_id": "txn_000199", "amount": 94.46, "timestamp": "2025-01-15T09:46:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00035", "transaction_id": "txn_000421", "amount": 369.69, "timestamp": "2025-01-15T09:49:00Z", "merchant": "Walmart", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00057", "transaction_id": "txn_000217", "amount": 252.98, "timestamp": "2025-01-15T09:55:00Z", "merchant": "McDonalds", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00094", "transaction_id": "txn_000353", "amount": 202.68, "timestamp": "2025-01-15T09:59:00Z", "merchant": "Amazon", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00086", "transaction_id": "txn_000182", "amount": 459.23, "timestamp": "2025-01-15T10:02:00Z", "merchant": "McDonalds", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00025", "transaction_id": "txn_000423", "amount": 179.19, "timestamp": "2025-01-15T10:03:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00000", "transaction_id": "txn_000235", "amount": 49.5, "timestamp": "2025-01-15T10:07:00Z", "merchant": "Apple", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00021", "transaction_id": "txn_000321", "amount": 479.47, "timestamp": "2025-01-15T10:08:00Z", "merchant": "Apple", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00096", "transaction_id": "txn_000022", "amount": 305.83, "timestamp": "2025-01-15T10:11:00Z", "merchant": "Netflix", "location": "Phoenix", "payment_method": "apple_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000378", "amount": 355.0, "timestamp": "2025-01-15T10:19:00Z", "merchant": "Google", "location": "Denver", "payment_method": "credit_card"}
+{"user_id": "user_00097", "transaction_id": "txn_000201", "amount": 429.34, "timestamp": "2025-01-15T10:21:00Z", "merchant": "Amazon", "location": "Miami", "payment_method": "apple_pay"}
+{"user_id": "user_00034", "transaction_id": "txn_000474", "amount": 411.51, "timestamp": "2025-01-15T10:21:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00083", "transaction_id": "txn_000226", "amount": 253.97, "timestamp": "2025-01-15T10:24:00Z", "merchant": "Uber", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00097", "transaction_id": "txn_000496", "amount": 410.25, "timestamp": "2025-01-15T10:28:00Z", "merchant": "Target", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00099", "transaction_id": "txn_000289", "amount": 289.62, "timestamp": "2025-01-15T10:30:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00028", "transaction_id": "txn_000350", "amount": 265.03, "timestamp": "2025-01-15T10:30:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "apple_pay"}
+{"user_id": "user_00045", "transaction_id": "txn_000338", "amount": 247.97, "timestamp": "2025-01-15T10:32:00Z", "merchant": "Amazon", "location": "Phoenix", "payment_method": "apple_pay"}
+{"user_id": "user_00061", "transaction_id": "txn_000463", "amount": 263.15, "timestamp": "2025-01-15T10:39:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "credit_card"}
+{"user_id": "user_00070", "transaction_id": "txn_000367", "amount": 390.4, "timestamp": "2025-01-15T10:41:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00029", "transaction_id": "txn_000404", "amount": 350.93, "timestamp": "2025-01-15T10:41:00Z", "merchant": "Apple", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00016", "transaction_id": "txn_000402", "amount": 424.4, "timestamp": "2025-01-15T10:46:00Z", "merchant": "Google", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00024", "transaction_id": "txn_000257", "amount": 58.6, "timestamp": "2025-01-15T10:48:00Z", "merchant": "Amazon", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00006", "transaction_id": "txn_000225", "amount": 384.01, "timestamp": "2025-01-15T10:51:00Z", "merchant": "Walmart", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00042", "transaction_id": "txn_000489", "amount": 464.7, "timestamp": "2025-01-15T10:55:00Z", "merchant": "Walmart", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00067", "transaction_id": "txn_000126", "amount": 56.98, "timestamp": "2025-01-15T10:57:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00019", "transaction_id": "txn_000148", "amount": 135.27, "timestamp": "2025-01-15T10:57:00Z", "merchant": "McDonalds", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00087", "transaction_id": "txn_000084", "amount": 168.75, "timestamp": "2025-01-15T10:59:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "credit_card"}
+{"user_id": "user_00055", "transaction_id": "txn_000371", "amount": 40.57, "timestamp": "2025-01-15T10:59:00Z", "merchant": "Uber", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00084", "transaction_id": "txn_000011", "amount": 84.86, "timestamp": "2025-01-15T11:01:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00099", "transaction_id": "txn_000335", "amount": 83.73, "timestamp": "2025-01-15T11:03:00Z", "merchant": "McDonalds", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000408", "amount": 488.7, "timestamp": "2025-01-15T11:03:00Z", "merchant": "Target", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00081", "transaction_id": "txn_000464", "amount": 264.64, "timestamp": "2025-01-15T11:03:00Z", "merchant": "McDonalds", "location": "Denver", "payment_method": "paypal"}
+{"user_id": "user_00018", "transaction_id": "txn_000198", "amount": 122.82, "timestamp": "2025-01-15T11:04:00Z", "merchant": "Starbucks", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00027", "transaction_id": "txn_000430", "amount": 249.73, "timestamp": "2025-01-15T11:04:00Z", "merchant": "Apple", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00036", "transaction_id": "txn_000219", "amount": 246.52, "timestamp": "2025-01-15T11:06:00Z", "merchant": "Starbucks", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00000", "transaction_id": "txn_000195", "amount": 270.48, "timestamp": "2025-01-15T11:09:00Z", "merchant": "McDonalds", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00031", "transaction_id": "txn_000250", "amount": 312.24, "timestamp": "2025-01-15T11:12:00Z", "merchant": "Netflix", "location": "Boston", "payment_method": "paypal"}
+{"user_id": "user_00089", "transaction_id": "txn_000066", "amount": 497.43, "timestamp": "2025-01-15T11:25:00Z", "merchant": "Target", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00019", "transaction_id": "txn_000470", "amount": 346.05, "timestamp": "2025-01-15T11:26:00Z", "merchant": "Google", "location": "San Francisco", "payment_method": "google_pay"}
+{"user_id": "user_00040", "transaction_id": "txn_000315", "amount": 373.94, "timestamp": "2025-01-15T11:35:00Z", "merchant": "McDonalds", "location": "New York", "payment_method": "credit_card"}
+{"user_id": "user_00040", "transaction_id": "txn_000111", "amount": 355.18, "timestamp": "2025-01-15T11:42:00Z", "merchant": "Google", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00090", "transaction_id": "txn_000116", "amount": 90.39, "timestamp": "2025-01-15T11:48:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00005", "transaction_id": "txn_000362", "amount": 346.03, "timestamp": "2025-01-15T11:51:00Z", "merchant": "Google", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00096", "transaction_id": "txn_000466", "amount": 332.79, "timestamp": "2025-01-15T11:53:00Z", "merchant": "Netflix", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00017", "transaction_id": "txn_000143", "amount": 284.08, "timestamp": "2025-01-15T11:56:00Z", "merchant": "Target", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00067", "transaction_id": "txn_000026", "amount": 20.59, "timestamp": "2025-01-15T11:57:00Z", "merchant": "Apple", "location": "Phoenix", "payment_method": "debit_card"}
+{"user_id": "user_00033", "transaction_id": "txn_000069", "amount": 499.57, "timestamp": "2025-01-15T11:57:00Z", "merchant": "Starbucks", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00020", "transaction_id": "txn_000103", "amount": 173.48, "timestamp": "2025-01-15T12:00:00Z", "merchant": "Target", "location": "Miami", "payment_method": "apple_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000467", "amount": 6.08, "timestamp": "2025-01-15T12:01:00Z", "merchant": "Uber", "location": "Miami", "payment_method": "credit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000117", "amount": 461.14, "timestamp": "2025-01-15T12:02:00Z", "merchant": "Netflix", "location": "New York", "payment_method": "credit_card"}
+{"user_id": "user_00020", "transaction_id": "txn_000075", "amount": 90.46, "timestamp": "2025-01-15T12:05:00Z", "merchant": "Amazon", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00097", "transaction_id": "txn_000211", "amount": 91.7, "timestamp": "2025-01-15T12:05:00Z", "merchant": "Netflix", "location": "Boston", "payment_method": "google_pay"}
+{"user_id": "user_00075", "transaction_id": "txn_000399", "amount": 352.08, "timestamp": "2025-01-15T12:05:00Z", "merchant": "Uber", "location": "San Francisco", "payment_method": "debit_card"}
+{"user_id": "user_00033", "transaction_id": "txn_000351", "amount": 2.98, "timestamp": "2025-01-15T12:11:00Z", "merchant": "McDonalds", "location": "Phoenix", "payment_method": "debit_card"}
+{"user_id": "user_00029", "transaction_id": "txn_000461", "amount": 251.12, "timestamp": "2025-01-15T12:11:00Z", "merchant": "McDonalds", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00050", "transaction_id": "txn_000138", "amount": 251.48, "timestamp": "2025-01-15T12:13:00Z", "merchant": "Uber", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00024", "transaction_id": "txn_000049", "amount": 402.97, "timestamp": "2025-01-15T12:15:00Z", "merchant": "Target", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00086", "transaction_id": "txn_000056", "amount": 334.63, "timestamp": "2025-01-15T12:19:00Z", "merchant": "Walmart", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000046", "amount": 471.61, "timestamp": "2025-01-15T12:23:00Z", "merchant": "Target", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00098", "transaction_id": "txn_000123", "amount": 76.95, "timestamp": "2025-01-15T12:25:00Z", "merchant": "McDonalds", "location": "Miami", "payment_method": "credit_card"}
+{"user_id": "user_00000", "transaction_id": "txn_000063", "amount": 125.62, "timestamp": "2025-01-15T12:26:00Z", "merchant": "Best Buy", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00091", "transaction_id": "txn_000204", "amount": 279.4, "timestamp": "2025-01-15T12:27:00Z", "merchant": "Netflix", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00055", "transaction_id": "txn_000246", "amount": 99.86, "timestamp": "2025-01-15T12:29:00Z", "merchant": "Amazon", "location": "San Francisco", "payment_method": "apple_pay"}
+{"user_id": "user_00054", "transaction_id": "txn_000003", "amount": 154.58, "timestamp": "2025-01-15T12:39:00Z", "merchant": "Target", "location": "New York", "payment_method": "credit_card"}
+{"user_id": "user_00076", "transaction_id": "txn_000048", "amount": 129.48, "timestamp": "2025-01-15T12:39:00Z", "merchant": "Best Buy", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00064", "transaction_id": "txn_000212", "amount": 179.73, "timestamp": "2025-01-15T12:39:00Z", "merchant": "Target", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00098", "transaction_id": "txn_000281", "amount": 37.87, "timestamp": "2025-01-15T12:40:00Z", "merchant": "Google", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00093", "transaction_id": "txn_000324", "amount": 397.31, "timestamp": "2025-01-15T12:40:00Z", "merchant": "Apple", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00033", "transaction_id": "txn_000444", "amount": 441.68, "timestamp": "2025-01-15T12:44:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00050", "transaction_id": "txn_000293", "amount": 92.13, "timestamp": "2025-01-15T12:51:00Z", "merchant": "Target", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00002", "transaction_id": "txn_000095", "amount": 6.74, "timestamp": "2025-01-15T12:54:00Z", "merchant": "Apple", "location": "Miami", "payment_method": "credit_card"}
+{"user_id": "user_00040", "transaction_id": "txn_000268", "amount": 225.4, "timestamp": "2025-01-15T12:56:00Z", "merchant": "Walmart", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00025", "transaction_id": "txn_000283", "amount": 210.36, "timestamp": "2025-01-15T13:00:00Z", "merchant": "Apple", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00074", "transaction_id": "txn_000298", "amount": 132.93, "timestamp": "2025-01-15T13:04:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00096", "transaction_id": "txn_000484", "amount": 338.37, "timestamp": "2025-01-15T13:08:00Z", "merchant": "Uber", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00013", "transaction_id": "txn_000193", "amount": 240.71, "timestamp": "2025-01-15T13:09:00Z", "merchant": "Target", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00089", "transaction_id": "txn_000139", "amount": 445.87, "timestamp": "2025-01-15T13:10:00Z", "merchant": "Netflix", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00072", "transaction_id": "txn_000162", "amount": 246.82, "timestamp": "2025-01-15T13:10:00Z", "merchant": "Starbucks", "location": "Miami", "payment_method": "paypal"}
+{"user_id": "user_00033", "transaction_id": "txn_000343", "amount": 85.83, "timestamp": "2025-01-15T13:15:00Z", "merchant": "Uber", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00066", "transaction_id": "txn_000027", "amount": 381.04, "timestamp": "2025-01-15T13:16:00Z", "merchant": "Amazon", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00091", "transaction_id": "txn_000267", "amount": 62.17, "timestamp": "2025-01-15T13:16:00Z", "merchant": "Walmart", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00057", "transaction_id": "txn_000276", "amount": 346.1, "timestamp": "2025-01-15T13:16:00Z", "merchant": "Target", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00025", "transaction_id": "txn_000221", "amount": 289.13, "timestamp": "2025-01-15T13:20:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00006", "transaction_id": "txn_000451", "amount": 275.0, "timestamp": "2025-01-15T13:20:00Z", "merchant": "Starbucks", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00006", "transaction_id": "txn_000264", "amount": 8.76, "timestamp": "2025-01-15T13:21:00Z", "merchant": "Uber", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000231", "amount": 190.63, "timestamp": "2025-01-15T13:26:00Z", "merchant": "Walmart", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00076", "transaction_id": "txn_000207", "amount": 459.2, "timestamp": "2025-01-15T13:28:00Z", "merchant": "Apple", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00074", "transaction_id": "txn_000254", "amount": 121.89, "timestamp": "2025-01-15T13:30:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "apple_pay"}
+{"user_id": "user_00008", "transaction_id": "txn_000045", "amount": 296.01, "timestamp": "2025-01-15T13:32:00Z", "merchant": "Apple", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00088", "transaction_id": "txn_000300", "amount": 479.63, "timestamp": "2025-01-15T13:35:00Z", "merchant": "McDonalds", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00066", "transaction_id": "txn_000480", "amount": 315.87, "timestamp": "2025-01-15T13:38:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00022", "transaction_id": "txn_000181", "amount": 392.21, "timestamp": "2025-01-15T13:48:00Z", "merchant": "Apple", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00096", "transaction_id": "txn_000101", "amount": 488.2, "timestamp": "2025-01-15T13:57:00Z", "merchant": "Amazon", "location": "New York", "payment_method": "google_pay"}
+{"user_id": "user_00084", "transaction_id": "txn_000134", "amount": 96.06, "timestamp": "2025-01-15T13:57:00Z", "merchant": "Walmart", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00068", "transaction_id": "txn_000004", "amount": 284.58, "timestamp": "2025-01-15T14:01:00Z", "merchant": "McDonalds", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00083", "transaction_id": "txn_000275", "amount": 490.38, "timestamp": "2025-01-15T14:02:00Z", "merchant": "Target", "location": "Los Angeles", "payment_method": "credit_card"}
+{"user_id": "user_00098", "transaction_id": "txn_000251", "amount": 86.73, "timestamp": "2025-01-15T14:04:00Z", "merchant": "Amazon", "location": "Houston", "payment_method": "credit_card"}
+{"user_id": "user_00037", "transaction_id": "txn_000494", "amount": 365.79, "timestamp": "2025-01-15T14:04:00Z", "merchant": "McDonalds", "location": "San Francisco", "payment_method": "debit_card"}
+{"user_id": "user_00086", "transaction_id": "txn_000186", "amount": 48.64, "timestamp": "2025-01-15T14:05:00Z", "merchant": "Amazon", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00068", "transaction_id": "txn_000398", "amount": 220.38, "timestamp": "2025-01-15T14:10:00Z", "merchant": "Google", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000475", "amount": 73.69, "timestamp": "2025-01-15T14:13:00Z", "merchant": "Netflix", "location": "New York", "payment_method": "google_pay"}
+{"user_id": "user_00005", "transaction_id": "txn_000210", "amount": 466.89, "timestamp": "2025-01-15T14:15:00Z", "merchant": "Amazon", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00068", "transaction_id": "txn_000023", "amount": 221.01, "timestamp": "2025-01-15T14:18:00Z", "merchant": "Netflix", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00000", "transaction_id": "txn_000206", "amount": 408.7, "timestamp": "2025-01-15T14:23:00Z", "merchant": "Netflix", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00006", "transaction_id": "txn_000145", "amount": 450.37, "timestamp": "2025-01-15T14:24:00Z", "merchant": "Google", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00073", "transaction_id": "txn_000471", "amount": 243.11, "timestamp": "2025-01-15T14:28:00Z", "merchant": "Starbucks", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000028", "amount": 237.41, "timestamp": "2025-01-15T14:29:00Z", "merchant": "Best Buy", "location": "Boston", "payment_method": "google_pay"}
+{"user_id": "user_00054", "transaction_id": "txn_000047", "amount": 11.94, "timestamp": "2025-01-15T14:33:00Z", "merchant": "Amazon", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00007", "transaction_id": "txn_000244", "amount": 47.42, "timestamp": "2025-01-15T14:33:00Z", "merchant": "Google", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00016", "transaction_id": "txn_000346", "amount": 117.79, "timestamp": "2025-01-15T14:33:00Z", "merchant": "Apple", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00087", "transaction_id": "txn_000118", "amount": 28.48, "timestamp": "2025-01-15T14:44:00Z", "merchant": "Target", "location": "Houston", "payment_method": "credit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000301", "amount": 490.73, "timestamp": "2025-01-15T14:49:00Z", "merchant": "Starbucks", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00042", "transaction_id": "txn_000330", "amount": 120.96, "timestamp": "2025-01-15T14:53:00Z", "merchant": "Target", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000120", "amount": 128.25, "timestamp": "2025-01-15T14:56:00Z", "merchant": "Google", "location": "Miami", "payment_method": "apple_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000062", "amount": 112.52, "timestamp": "2025-01-15T14:59:00Z", "merchant": "Starbucks", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00031", "transaction_id": "txn_000005", "amount": 415.52, "timestamp": "2025-01-15T15:05:00Z", "merchant": "Netflix", "location": "San Francisco", "payment_method": "google_pay"}
+{"user_id": "user_00020", "transaction_id": "txn_000128", "amount": 160.29, "timestamp": "2025-01-15T15:09:00Z", "merchant": "Target", "location": "Seattle", "payment_method": "debit_card"}
+{"user_id": "user_00025", "transaction_id": "txn_000487", "amount": 190.99, "timestamp": "2025-01-15T15:11:00Z", "merchant": "Amazon", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00034", "transaction_id": "txn_000064", "amount": 431.11, "timestamp": "2025-01-15T15:13:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000439", "amount": 293.99, "timestamp": "2025-01-15T15:13:00Z", "merchant": "Target", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00099", "transaction_id": "txn_000015", "amount": 165.92, "timestamp": "2025-01-15T15:18:00Z", "merchant": "Best Buy", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00098", "transaction_id": "txn_000486", "amount": 476.29, "timestamp": "2025-01-15T15:19:00Z", "merchant": "Google", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00003", "transaction_id": "txn_000357", "amount": 161.58, "timestamp": "2025-01-15T15:21:00Z", "merchant": "Walmart", "location": "Chicago", "payment_method": "debit_card"}
+{"user_id": "user_00015", "transaction_id": "txn_000016", "amount": 32.92, "timestamp": "2025-01-15T15:29:00Z", "merchant": "Starbucks", "location": "Boston", "payment_method": "apple_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000037", "amount": 497.41, "timestamp": "2025-01-15T15:42:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00085", "transaction_id": "txn_000318", "amount": 349.11, "timestamp": "2025-01-15T15:44:00Z", "merchant": "Best Buy", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00011", "transaction_id": "txn_000443", "amount": 110.97, "timestamp": "2025-01-15T15:48:00Z", "merchant": "McDonalds", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00041", "transaction_id": "txn_000415", "amount": 485.71, "timestamp": "2025-01-15T15:49:00Z", "merchant": "Target", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000483", "amount": 164.64, "timestamp": "2025-01-15T15:53:00Z", "merchant": "Uber", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00080", "transaction_id": "txn_000108", "amount": 319.89, "timestamp": "2025-01-15T15:56:00Z", "merchant": "Target", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00076", "transaction_id": "txn_000025", "amount": 402.21, "timestamp": "2025-01-15T16:06:00Z", "merchant": "Google", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00044", "transaction_id": "txn_000271", "amount": 253.01, "timestamp": "2025-01-15T16:08:00Z", "merchant": "Google", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00016", "transaction_id": "txn_000412", "amount": 308.41, "timestamp": "2025-01-15T16:19:00Z", "merchant": "Google", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00089", "transaction_id": "txn_000189", "amount": 367.21, "timestamp": "2025-01-15T16:21:00Z", "merchant": "Netflix", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00091", "transaction_id": "txn_000228", "amount": 402.88, "timestamp": "2025-01-15T16:23:00Z", "merchant": "Amazon", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00056", "transaction_id": "txn_000224", "amount": 124.2, "timestamp": "2025-01-15T16:24:00Z", "merchant": "Uber", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00001", "transaction_id": "txn_000297", "amount": 327.91, "timestamp": "2025-01-15T16:27:00Z", "merchant": "Best Buy", "location": "Boston", "payment_method": "apple_pay"}
+{"user_id": "user_00097", "transaction_id": "txn_000131", "amount": 318.38, "timestamp": "2025-01-15T16:28:00Z", "merchant": "Starbucks", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00010", "transaction_id": "txn_000100", "amount": 44.25, "timestamp": "2025-01-15T16:29:00Z", "merchant": "Target", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00047", "transaction_id": "txn_000188", "amount": 364.19, "timestamp": "2025-01-15T16:37:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000405", "amount": 458.53, "timestamp": "2025-01-15T16:38:00Z", "merchant": "Best Buy", "location": "San Francisco", "payment_method": "debit_card"}
+{"user_id": "user_00033", "transaction_id": "txn_000386", "amount": 374.24, "timestamp": "2025-01-15T16:43:00Z", "merchant": "Google", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00058", "transaction_id": "txn_000395", "amount": 459.69, "timestamp": "2025-01-15T16:46:00Z", "merchant": "Walmart", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00031", "transaction_id": "txn_000174", "amount": 135.19, "timestamp": "2025-01-15T16:47:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00042", "transaction_id": "txn_000302", "amount": 240.03, "timestamp": "2025-01-15T16:51:00Z", "merchant": "Best Buy", "location": "San Francisco", "payment_method": "apple_pay"}
+{"user_id": "user_00024", "transaction_id": "txn_000299", "amount": 468.38, "timestamp": "2025-01-15T16:55:00Z", "merchant": "Google", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00078", "transaction_id": "txn_000340", "amount": 104.56, "timestamp": "2025-01-15T16:57:00Z", "merchant": "Google", "location": "Phoenix", "payment_method": "apple_pay"}
+{"user_id": "user_00008", "transaction_id": "txn_000313", "amount": 3.28, "timestamp": "2025-01-15T17:03:00Z", "merchant": "Amazon", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00098", "transaction_id": "txn_000348", "amount": 124.94, "timestamp": "2025-01-15T17:04:00Z", "merchant": "Target", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00000", "transaction_id": "txn_000435", "amount": 53.62, "timestamp": "2025-01-15T17:04:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00081", "transaction_id": "txn_000360", "amount": 151.08, "timestamp": "2025-01-15T17:05:00Z", "merchant": "Google", "location": "San Francisco", "payment_method": "apple_pay"}
+{"user_id": "user_00084", "transaction_id": "txn_000158", "amount": 135.6, "timestamp": "2025-01-15T17:11:00Z", "merchant": "McDonalds", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00088", "transaction_id": "txn_000307", "amount": 31.81, "timestamp": "2025-01-15T17:16:00Z", "merchant": "Target", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00002", "transaction_id": "txn_000059", "amount": 30.14, "timestamp": "2025-01-15T17:21:00Z", "merchant": "Apple", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00073", "transaction_id": "txn_000327", "amount": 345.77, "timestamp": "2025-01-15T17:22:00Z", "merchant": "Best Buy", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00080", "transaction_id": "txn_000233", "amount": 235.45, "timestamp": "2025-01-15T17:24:00Z", "merchant": "Best Buy", "location": "San Francisco", "payment_method": "apple_pay"}
+{"user_id": "user_00051", "transaction_id": "txn_000497", "amount": 477.09, "timestamp": "2025-01-15T17:27:00Z", "merchant": "McDonalds", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00046", "transaction_id": "txn_000326", "amount": 438.26, "timestamp": "2025-01-15T17:36:00Z", "merchant": "Apple", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00068", "transaction_id": "txn_000042", "amount": 422.76, "timestamp": "2025-01-15T17:38:00Z", "merchant": "Starbucks", "location": "Denver", "payment_method": "credit_card"}
+{"user_id": "user_00052", "transaction_id": "txn_000454", "amount": 134.98, "timestamp": "2025-01-15T17:38:00Z", "merchant": "Netflix", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00026", "transaction_id": "txn_000380", "amount": 408.91, "timestamp": "2025-01-15T17:40:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000113", "amount": 17.34, "timestamp": "2025-01-15T17:41:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00037", "transaction_id": "txn_000417", "amount": 361.42, "timestamp": "2025-01-15T17:41:00Z", "merchant": "Netflix", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00004", "transaction_id": "txn_000044", "amount": 416.49, "timestamp": "2025-01-15T17:42:00Z", "merchant": "McDonalds", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00097", "transaction_id": "txn_000376", "amount": 382.42, "timestamp": "2025-01-15T17:42:00Z", "merchant": "McDonalds", "location": "Los Angeles", "payment_method": "credit_card"}
+{"user_id": "user_00027", "transaction_id": "txn_000068", "amount": 491.19, "timestamp": "2025-01-15T17:43:00Z", "merchant": "Amazon", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00008", "transaction_id": "txn_000247", "amount": 68.52, "timestamp": "2025-01-15T17:45:00Z", "merchant": "Apple", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00023", "transaction_id": "txn_000093", "amount": 432.64, "timestamp": "2025-01-15T17:46:00Z", "merchant": "Uber", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00080", "transaction_id": "txn_000349", "amount": 360.62, "timestamp": "2025-01-15T17:47:00Z", "merchant": "Starbucks", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00079", "transaction_id": "txn_000065", "amount": 214.03, "timestamp": "2025-01-15T17:49:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00096", "transaction_id": "txn_000345", "amount": 216.95, "timestamp": "2025-01-15T17:50:00Z", "merchant": "Amazon", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00030", "transaction_id": "txn_000061", "amount": 211.33, "timestamp": "2025-01-15T17:52:00Z", "merchant": "Netflix", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00072", "transaction_id": "txn_000472", "amount": 466.0, "timestamp": "2025-01-15T17:54:00Z", "merchant": "Starbucks", "location": "San Francisco", "payment_method": "google_pay"}
+{"user_id": "user_00051", "transaction_id": "txn_000218", "amount": 361.78, "timestamp": "2025-01-15T17:55:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00026", "transaction_id": "txn_000498", "amount": 296.22, "timestamp": "2025-01-15T18:06:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000410", "amount": 90.47, "timestamp": "2025-01-15T18:07:00Z", "merchant": "Apple", "location": "Los Angeles", "payment_method": "credit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000057", "amount": 374.51, "timestamp": "2025-01-15T18:09:00Z", "merchant": "Google", "location": "Houston", "payment_method": "credit_card"}
+{"user_id": "user_00022", "transaction_id": "txn_000370", "amount": 101.26, "timestamp": "2025-01-15T18:10:00Z", "merchant": "Amazon", "location": "Chicago", "payment_method": "paypal"}
+{"user_id": "user_00037", "transaction_id": "txn_000098", "amount": 211.79, "timestamp": "2025-01-15T18:20:00Z", "merchant": "Best Buy", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00084", "transaction_id": "txn_000050", "amount": 423.05, "timestamp": "2025-01-15T18:24:00Z", "merchant": "McDonalds", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00048", "transaction_id": "txn_000332", "amount": 448.62, "timestamp": "2025-01-15T18:30:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00071", "transaction_id": "txn_000175", "amount": 174.68, "timestamp": "2025-01-15T18:33:00Z", "merchant": "McDonalds", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00055", "transaction_id": "txn_000359", "amount": 256.89, "timestamp": "2025-01-15T18:34:00Z", "merchant": "Netflix", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00064", "transaction_id": "txn_000292", "amount": 234.84, "timestamp": "2025-01-15T18:35:00Z", "merchant": "Starbucks", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00004", "transaction_id": "txn_000418", "amount": 250.3, "timestamp": "2025-01-15T18:39:00Z", "merchant": "Uber", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00066", "transaction_id": "txn_000032", "amount": 338.12, "timestamp": "2025-01-15T18:41:00Z", "merchant": "Uber", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00074", "transaction_id": "txn_000178", "amount": 270.02, "timestamp": "2025-01-15T18:41:00Z", "merchant": "Best Buy", "location": "Seattle", "payment_method": "debit_card"}
+{"user_id": "user_00055", "transaction_id": "txn_000060", "amount": 355.03, "timestamp": "2025-01-15T18:43:00Z", "merchant": "Apple", "location": "Denver", "payment_method": "paypal"}
+{"user_id": "user_00096", "transaction_id": "txn_000019", "amount": 480.23, "timestamp": "2025-01-15T18:45:00Z", "merchant": "Amazon", "location": "Seattle", "payment_method": "debit_card"}
+{"user_id": "user_00074", "transaction_id": "txn_000366", "amount": 229.77, "timestamp": "2025-01-15T18:45:00Z", "merchant": "Google", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00079", "transaction_id": "txn_000468", "amount": 225.34, "timestamp": "2025-01-15T18:46:00Z", "merchant": "Walmart", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00029", "transaction_id": "txn_000008", "amount": 66.71, "timestamp": "2025-01-15T18:47:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000427", "amount": 388.11, "timestamp": "2025-01-15T18:49:00Z", "merchant": "Netflix", "location": "Seattle", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000477", "amount": 306.36, "timestamp": "2025-01-15T18:51:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00087", "transaction_id": "txn_000006", "amount": 71.06, "timestamp": "2025-01-15T18:56:00Z", "merchant": "Amazon", "location": "Chicago", "payment_method": "credit_card"}
+{"user_id": "user_00094", "transaction_id": "txn_000183", "amount": 433.37, "timestamp": "2025-01-15T18:57:00Z", "merchant": "Google", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00097", "transaction_id": "txn_000170", "amount": 74.95, "timestamp": "2025-01-15T18:59:00Z", "merchant": "Google", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00027", "transaction_id": "txn_000169", "amount": 397.72, "timestamp": "2025-01-15T19:04:00Z", "merchant": "McDonalds", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00047", "transaction_id": "txn_000312", "amount": 412.6, "timestamp": "2025-01-15T19:08:00Z", "merchant": "Walmart", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00060", "transaction_id": "txn_000460", "amount": 76.92, "timestamp": "2025-01-15T19:12:00Z", "merchant": "McDonalds", "location": "Chicago", "payment_method": "paypal"}
+{"user_id": "user_00094", "transaction_id": "txn_000165", "amount": 41.42, "timestamp": "2025-01-15T19:17:00Z", "merchant": "Amazon", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00033", "transaction_id": "txn_000310", "amount": 307.42, "timestamp": "2025-01-15T19:26:00Z", "merchant": "Apple", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00014", "transaction_id": "txn_000442", "amount": 105.9, "timestamp": "2025-01-15T19:26:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "paypal"}
+{"user_id": "user_00005", "transaction_id": "txn_000492", "amount": 445.36, "timestamp": "2025-01-15T19:27:00Z", "merchant": "Walmart", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00070", "transaction_id": "txn_000263", "amount": 68.47, "timestamp": "2025-01-15T19:29:00Z", "merchant": "Walmart", "location": "New York", "payment_method": "credit_card"}
+{"user_id": "user_00001", "transaction_id": "txn_000161", "amount": 465.04, "timestamp": "2025-01-15T19:30:00Z", "merchant": "Netflix", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00071", "transaction_id": "txn_000168", "amount": 419.15, "timestamp": "2025-01-15T19:36:00Z", "merchant": "Amazon", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00045", "transaction_id": "txn_000230", "amount": 244.97, "timestamp": "2025-01-15T19:36:00Z", "merchant": "Target", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00033", "transaction_id": "txn_000406", "amount": 212.63, "timestamp": "2025-01-15T19:39:00Z", "merchant": "Target", "location": "Miami", "payment_method": "apple_pay"}
+{"user_id": "user_00001", "transaction_id": "txn_000156", "amount": 432.71, "timestamp": "2025-01-15T19:41:00Z", "merchant": "Google", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00099", "transaction_id": "txn_000013", "amount": 217.59, "timestamp": "2025-01-15T19:44:00Z", "merchant": "Best Buy", "location": "Denver", "payment_method": "paypal"}
+{"user_id": "user_00098", "transaction_id": "txn_000243", "amount": 458.89, "timestamp": "2025-01-15T19:48:00Z", "merchant": "Target", "location": "Miami", "payment_method": "apple_pay"}
+{"user_id": "user_00031", "transaction_id": "txn_000382", "amount": 167.39, "timestamp": "2025-01-15T19:55:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "credit_card"}
+{"user_id": "user_00045", "transaction_id": "txn_000133", "amount": 106.39, "timestamp": "2025-01-15T20:00:00Z", "merchant": "McDonalds", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00003", "transaction_id": "txn_000000", "amount": 241.34, "timestamp": "2025-01-15T20:02:00Z", "merchant": "Target", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00090", "transaction_id": "txn_000021", "amount": 135.5, "timestamp": "2025-01-15T20:03:00Z", "merchant": "Netflix", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00095", "transaction_id": "txn_000007", "amount": 272.77, "timestamp": "2025-01-15T20:05:00Z", "merchant": "Starbucks", "location": "Denver", "payment_method": "paypal"}
+{"user_id": "user_00099", "transaction_id": "txn_000137", "amount": 315.56, "timestamp": "2025-01-15T20:07:00Z", "merchant": "McDonalds", "location": "Miami", "payment_method": "credit_card"}
+{"user_id": "user_00060", "transaction_id": "txn_000184", "amount": 409.58, "timestamp": "2025-01-15T20:08:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00032", "transaction_id": "txn_000252", "amount": 367.72, "timestamp": "2025-01-15T20:10:00Z", "merchant": "Apple", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00097", "transaction_id": "txn_000365", "amount": 185.81, "timestamp": "2025-01-15T20:12:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00099", "transaction_id": "txn_000260", "amount": 238.71, "timestamp": "2025-01-15T20:14:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00055", "transaction_id": "txn_000085", "amount": 192.4, "timestamp": "2025-01-15T20:22:00Z", "merchant": "Apple", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00031", "transaction_id": "txn_000262", "amount": 444.51, "timestamp": "2025-01-15T20:26:00Z", "merchant": "Netflix", "location": "Miami", "payment_method": "debit_card"}
+{"user_id": "user_00087", "transaction_id": "txn_000238", "amount": 123.83, "timestamp": "2025-01-15T20:27:00Z", "merchant": "Google", "location": "Chicago", "payment_method": "paypal"}
+{"user_id": "user_00044", "transaction_id": "txn_000234", "amount": 328.03, "timestamp": "2025-01-15T20:29:00Z", "merchant": "Best Buy", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00018", "transaction_id": "txn_000086", "amount": 338.13, "timestamp": "2025-01-15T20:30:00Z", "merchant": "McDonalds", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00096", "transaction_id": "txn_000424", "amount": 306.98, "timestamp": "2025-01-15T20:35:00Z", "merchant": "Best Buy", "location": "Denver", "payment_method": "paypal"}
+{"user_id": "user_00055", "transaction_id": "txn_000317", "amount": 207.36, "timestamp": "2025-01-15T20:42:00Z", "merchant": "Netflix", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00045", "transaction_id": "txn_000329", "amount": 360.52, "timestamp": "2025-01-15T20:44:00Z", "merchant": "Starbucks", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00077", "transaction_id": "txn_000358", "amount": 239.61, "timestamp": "2025-01-15T20:45:00Z", "merchant": "McDonalds", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000387", "amount": 245.98, "timestamp": "2025-01-15T20:45:00Z", "merchant": "Best Buy", "location": "New York", "payment_method": "paypal"}
+{"user_id": "user_00071", "transaction_id": "txn_000375", "amount": 280.62, "timestamp": "2025-01-15T20:47:00Z", "merchant": "Apple", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00014", "transaction_id": "txn_000259", "amount": 421.91, "timestamp": "2025-01-15T20:50:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00038", "transaction_id": "txn_000152", "amount": 62.31, "timestamp": "2025-01-15T20:55:00Z", "merchant": "Amazon", "location": "Houston", "payment_method": "paypal"}
+{"user_id": "user_00008", "transaction_id": "txn_000495", "amount": 390.38, "timestamp": "2025-01-15T21:06:00Z", "merchant": "Netflix", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000363", "amount": 250.36, "timestamp": "2025-01-15T21:07:00Z", "merchant": "Uber", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00099", "transaction_id": "txn_000425", "amount": 2.79, "timestamp": "2025-01-15T21:14:00Z", "merchant": "Starbucks", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00060", "transaction_id": "txn_000205", "amount": 76.05, "timestamp": "2025-01-15T21:23:00Z", "merchant": "Amazon", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00006", "transaction_id": "txn_000144", "amount": 154.29, "timestamp": "2025-01-15T21:25:00Z", "merchant": "Netflix", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00029", "transaction_id": "txn_000220", "amount": 85.41, "timestamp": "2025-01-15T21:27:00Z", "merchant": "Google", "location": "Boston", "payment_method": "apple_pay"}
+{"user_id": "user_00052", "transaction_id": "txn_000166", "amount": 361.38, "timestamp": "2025-01-15T21:28:00Z", "merchant": "Uber", "location": "New York", "payment_method": "google_pay"}
+{"user_id": "user_00080", "transaction_id": "txn_000159", "amount": 5.04, "timestamp": "2025-01-15T21:31:00Z", "merchant": "Uber", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00032", "transaction_id": "txn_000196", "amount": 321.94, "timestamp": "2025-01-15T21:32:00Z", "merchant": "Walmart", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00084", "transaction_id": "txn_000155", "amount": 44.38, "timestamp": "2025-01-15T21:36:00Z", "merchant": "Uber", "location": "Houston", "payment_method": "debit_card"}
+{"user_id": "user_00076", "transaction_id": "txn_000493", "amount": 411.23, "timestamp": "2025-01-15T21:37:00Z", "merchant": "McDonalds", "location": "Chicago", "payment_method": "google_pay"}
+{"user_id": "user_00037", "transaction_id": "txn_000190", "amount": 499.13, "timestamp": "2025-01-15T21:38:00Z", "merchant": "Amazon", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00098", "transaction_id": "txn_000124", "amount": 120.82, "timestamp": "2025-01-15T21:40:00Z", "merchant": "Netflix", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00096", "transaction_id": "txn_000309", "amount": 464.73, "timestamp": "2025-01-15T21:40:00Z", "merchant": "Amazon", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00018", "transaction_id": "txn_000333", "amount": 261.12, "timestamp": "2025-01-15T21:40:00Z", "merchant": "Best Buy", "location": "Denver", "payment_method": "debit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000278", "amount": 30.31, "timestamp": "2025-01-15T21:44:00Z", "merchant": "Best Buy", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00038", "transaction_id": "txn_000476", "amount": 379.86, "timestamp": "2025-01-15T21:50:00Z", "merchant": "Google", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00036", "transaction_id": "txn_000419", "amount": 394.93, "timestamp": "2025-01-15T21:54:00Z", "merchant": "Amazon", "location": "Denver", "payment_method": "apple_pay"}
+{"user_id": "user_00011", "transaction_id": "txn_000088", "amount": 458.66, "timestamp": "2025-01-15T21:55:00Z", "merchant": "Amazon", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00047", "transaction_id": "txn_000253", "amount": 17.18, "timestamp": "2025-01-15T21:55:00Z", "merchant": "Amazon", "location": "San Francisco", "payment_method": "debit_card"}
+{"user_id": "user_00086", "transaction_id": "txn_000030", "amount": 69.39, "timestamp": "2025-01-15T21:56:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00025", "transaction_id": "txn_000208", "amount": 247.95, "timestamp": "2025-01-15T21:56:00Z", "merchant": "Starbucks", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00001", "transaction_id": "txn_000388", "amount": 298.03, "timestamp": "2025-01-15T21:56:00Z", "merchant": "McDonalds", "location": "Seattle", "payment_method": "google_pay"}
+{"user_id": "user_00029", "transaction_id": "txn_000245", "amount": 432.65, "timestamp": "2025-01-15T22:01:00Z", "merchant": "McDonalds", "location": "New York", "payment_method": "credit_card"}
+{"user_id": "user_00015", "transaction_id": "txn_000142", "amount": 422.26, "timestamp": "2025-01-15T22:02:00Z", "merchant": "Apple", "location": "San Francisco", "payment_method": "debit_card"}
+{"user_id": "user_00095", "transaction_id": "txn_000150", "amount": 48.03, "timestamp": "2025-01-15T22:04:00Z", "merchant": "Uber", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00074", "transaction_id": "txn_000428", "amount": 34.31, "timestamp": "2025-01-15T22:05:00Z", "merchant": "Uber", "location": "Chicago", "payment_method": "paypal"}
+{"user_id": "user_00054", "transaction_id": "txn_000200", "amount": 266.98, "timestamp": "2025-01-15T22:06:00Z", "merchant": "Walmart", "location": "Phoenix", "payment_method": "google_pay"}
+{"user_id": "user_00069", "transaction_id": "txn_000320", "amount": 70.29, "timestamp": "2025-01-15T22:06:00Z", "merchant": "Amazon", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00088", "transaction_id": "txn_000052", "amount": 102.79, "timestamp": "2025-01-15T22:14:00Z", "merchant": "Apple", "location": "Seattle", "payment_method": "apple_pay"}
+{"user_id": "user_00094", "transaction_id": "txn_000342", "amount": 227.07, "timestamp": "2025-01-15T22:15:00Z", "merchant": "Best Buy", "location": "Chicago", "payment_method": "apple_pay"}
+{"user_id": "user_00056", "transaction_id": "txn_000106", "amount": 408.12, "timestamp": "2025-01-15T22:19:00Z", "merchant": "Starbucks", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00018", "transaction_id": "txn_000242", "amount": 83.58, "timestamp": "2025-01-15T22:19:00Z", "merchant": "Target", "location": "Boston", "payment_method": "debit_card"}
+{"user_id": "user_00065", "transaction_id": "txn_000305", "amount": 431.39, "timestamp": "2025-01-15T22:19:00Z", "merchant": "Best Buy", "location": "Denver", "payment_method": "google_pay"}
+{"user_id": "user_00006", "transaction_id": "txn_000258", "amount": 219.79, "timestamp": "2025-01-15T22:23:00Z", "merchant": "Netflix", "location": "Chicago", "payment_method": "paypal"}
+{"user_id": "user_00016", "transaction_id": "txn_000035", "amount": 140.54, "timestamp": "2025-01-15T22:24:00Z", "merchant": "Walmart", "location": "New York", "payment_method": "debit_card"}
+{"user_id": "user_00059", "transaction_id": "txn_000053", "amount": 442.98, "timestamp": "2025-01-15T22:29:00Z", "merchant": "Amazon", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00040", "transaction_id": "txn_000248", "amount": 122.94, "timestamp": "2025-01-15T22:32:00Z", "merchant": "McDonalds", "location": "Boston", "payment_method": "paypal"}
+{"user_id": "user_00080", "transaction_id": "txn_000319", "amount": 12.47, "timestamp": "2025-01-15T22:33:00Z", "merchant": "Netflix", "location": "Los Angeles", "payment_method": "apple_pay"}
+{"user_id": "user_00071", "transaction_id": "txn_000400", "amount": 335.63, "timestamp": "2025-01-15T22:40:00Z", "merchant": "Uber", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00079", "transaction_id": "txn_000381", "amount": 333.18, "timestamp": "2025-01-15T22:43:00Z", "merchant": "Best Buy", "location": "Phoenix", "payment_method": "credit_card"}
+{"user_id": "user_00015", "transaction_id": "txn_000213", "amount": 476.64, "timestamp": "2025-01-15T22:45:00Z", "merchant": "Netflix", "location": "Houston", "payment_method": "credit_card"}
+{"user_id": "user_00087", "transaction_id": "txn_000109", "amount": 323.84, "timestamp": "2025-01-15T22:49:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "google_pay"}
+{"user_id": "user_00000", "transaction_id": "txn_000337", "amount": 126.59, "timestamp": "2025-01-15T22:53:00Z", "merchant": "Target", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00073", "transaction_id": "txn_000079", "amount": 331.75, "timestamp": "2025-01-15T22:54:00Z", "merchant": "Amazon", "location": "Phoenix", "payment_method": "paypal"}
+{"user_id": "user_00076", "transaction_id": "txn_000416", "amount": 470.1, "timestamp": "2025-01-15T22:55:00Z", "merchant": "Walmart", "location": "Seattle", "payment_method": "credit_card"}
+{"user_id": "user_00060", "transaction_id": "txn_000110", "amount": 292.72, "timestamp": "2025-01-15T22:58:00Z", "merchant": "Amazon", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00000", "transaction_id": "txn_000373", "amount": 251.3, "timestamp": "2025-01-15T23:02:00Z", "merchant": "Uber", "location": "Miami", "payment_method": "paypal"}
+{"user_id": "user_00039", "transaction_id": "txn_000141", "amount": 310.65, "timestamp": "2025-01-15T23:04:00Z", "merchant": "Walmart", "location": "Denver", "payment_method": "credit_card"}
+{"user_id": "user_00046", "transaction_id": "txn_000038", "amount": 471.92, "timestamp": "2025-01-15T23:06:00Z", "merchant": "Target", "location": "San Francisco", "payment_method": "paypal"}
+{"user_id": "user_00040", "transaction_id": "txn_000073", "amount": 87.3, "timestamp": "2025-01-15T23:15:00Z", "merchant": "Best Buy", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00031", "transaction_id": "txn_000341", "amount": 6.04, "timestamp": "2025-01-15T23:15:00Z", "merchant": "Apple", "location": "Los Angeles", "payment_method": "google_pay"}
+{"user_id": "user_00074", "transaction_id": "txn_000121", "amount": 400.94, "timestamp": "2025-01-15T23:18:00Z", "merchant": "Target", "location": "Houston", "payment_method": "apple_pay"}
+{"user_id": "user_00098", "transaction_id": "txn_000491", "amount": 104.76, "timestamp": "2025-01-15T23:19:00Z", "merchant": "McDonalds", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00087", "transaction_id": "txn_000033", "amount": 386.26, "timestamp": "2025-01-15T23:22:00Z", "merchant": "Walmart", "location": "Miami", "payment_method": "google_pay"}
+{"user_id": "user_00072", "transaction_id": "txn_000390", "amount": 373.42, "timestamp": "2025-01-15T23:28:00Z", "merchant": "Uber", "location": "Los Angeles", "payment_method": "debit_card"}
+{"user_id": "user_00071", "transaction_id": "txn_000099", "amount": 313.88, "timestamp": "2025-01-15T23:30:00Z", "merchant": "Apple", "location": "New York", "payment_method": "apple_pay"}
+{"user_id": "user_00083", "transaction_id": "txn_000105", "amount": 35.12, "timestamp": "2025-01-15T23:35:00Z", "merchant": "Netflix", "location": "Phoenix", "payment_method": "apple_pay"}
+{"user_id": "user_00078", "transaction_id": "txn_000455", "amount": 156.54, "timestamp": "2025-01-15T23:37:00Z", "merchant": "Best Buy", "location": "Boston", "payment_method": "credit_card"}
+{"user_id": "user_00013", "transaction_id": "txn_000096", "amount": 290.12, "timestamp": "2025-01-15T23:39:00Z", "merchant": "Apple", "location": "Denver", "payment_method": "paypal"}
+{"user_id": "user_00099", "transaction_id": "txn_000453", "amount": 35.96, "timestamp": "2025-01-15T23:39:00Z", "merchant": "Walmart", "location": "Los Angeles", "payment_method": "paypal"}
+{"user_id": "user_00044", "transaction_id": "txn_000151", "amount": 32.32, "timestamp": "2025-01-15T23:40:00Z", "merchant": "Google", "location": "Seattle", "payment_method": "paypal"}
+{"user_id": "user_00070", "transaction_id": "txn_000172", "amount": 480.12, "timestamp": "2025-01-15T23:41:00Z", "merchant": "Google", "location": "San Francisco", "payment_method": "google_pay"}
+{"user_id": "user_00096", "transaction_id": "txn_000384", "amount": 479.97, "timestamp": "2025-01-15T23:53:00Z", "merchant": "Walmart", "location": "Phoenix", "payment_method": "debit_card"}
+{"user_id": "user_00045", "transaction_id": "txn_000288", "amount": 38.86, "timestamp": "2025-01-15T23:56:00Z", "merchant": "McDonalds", "location": "Los Angeles", "payment_method": "credit_card"}
+{"user_id": "user_00096", "transaction_id": "txn_000411", "amount": 8.62, "timestamp": "2025-01-15T23:56:00Z", "merchant": "Best Buy", "location": "Phoenix", "payment_method": "debit_card"}
+{"user_id": "user_00099", "transaction_id": "txn_000255", "amount": 104.88, "timestamp": "2025-01-15T23:58:00Z", "merchant": "McDonalds", "location": "Houston", "payment_method": "google_pay"}
+{"user_id": "user_00068", "transaction_id": "txn_000394", "amount": 342.91, "timestamp": "2025-01-15T23:59:00Z", "merchant": "Best Buy", "location": "Phoenix", "payment_method": "google_pay"}

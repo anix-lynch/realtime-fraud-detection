@@ -1,0 +1,30 @@
+{
+  "name": "realtime-fraud-detection",
+  "version": "1.0.0",
+  "description": "Real-Time Feature Engineering for Fraud Detection",
+  "main": "streamlit_app.py",
+  "scripts": {
+    "start": "streamlit run streamlit_app.py",
+    "api": "./scripts/run_api.sh",
+    "test": "./scripts/run_tests.sh",
+    "demo": "python demo.py"
+  },
+  "keywords": [
+    "fraud-detection",
+    "real-time",
+    "machine-learning",
+    "streamlit",
+    "python"
+  ],
+  "author": "Real-Time Fraud Detection Team",
+  "license": "MIT",
+  "engines": {
+    "python": ">=3.11.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "."
+  }
+}
