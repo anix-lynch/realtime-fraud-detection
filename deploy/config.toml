@@ -1,0 +1,51 @@
+# Distro Dojo - Unified Deployment Configuration
+# All deployment settings in one unified location
+
+[project]
+name = "realtime-fraud-detection"
+version = "1.0.0"
+description = "Real-Time Feature Engineering for Fraud Detection"
+
+[deployment]
+# Unified deployment settings
+type = "unified"  # Follows distro dojo rule
+strategy = "multi-service"
+
+[services.api]
+name = "fraud-api"
+port = 8001
+health_endpoint = "/health"
+image = "realtime-fraud-detection:latest"
+
+[services.ui]
+name = "fraud-ui"
+port = 8501
+main_file = "streamlit_app.py"
+image = "realtime-fraud-detection:latest"
+
+[github]
+repository = "https://github.com/anix-lynch/realtime-fraud-detection"
+branch = "main"
+streamlit_url = "https://share.streamlit.io/anix-lynch/realtime-fraud-detection/main/streamlit_app.py"
+
+[paths]
+# Unified asset paths (distro dojo)
+src_dir = "src"
+tests_dir = "tests"
+data_dir = "data"
+scripts_dir = "scripts"
+deploy_dir = "deploy"
+docker_dir = "docker"
+
+[features]
+real_time_engineering = true
+memory_safe_state = true
+streaming_simulation = true
+interactive_ui = true
+docker_deployment = true
+github_integration = true
+
+[requirements]
+python = ">=3.11"
+docker = true
+github_token = true
