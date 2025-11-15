@@ -1,7 +1,7 @@
 """Validation utilities for event data."""
 
 import re
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, Tuple
 
 
 REQUIRED_EVENT_FIELDS = [
