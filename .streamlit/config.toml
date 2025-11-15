@@ -38,11 +38,11 @@ fileWatcherType = "auto"
 # Symmetric key used to produce signed cookies. If deploying on multiple replicas,
 # this should be set to the same value across all replicas to ensure they all
 # share the same secret.
-cookieSecret = "a-random-key-appears-here"
+cookieSecret = "fraud-detection-unified-key-2025"
 
 # If false, will attempt to open a new browser tab on the local development
 # machine when `streamlit run` is called.
-headless = false
+headless = true
 
 # Automatically rerun script when the file is modified on disk.
 runOnSave = false
@@ -70,3 +70,9 @@ maxMessageSize = 200
 
 # Enables support for websocket compression.
 enableWebsocketCompression = false
+
+[browser]
+
+# Internet Explorer is not supported.
+# Firefox and Chrome are supported.
+gatherUsageStats = false
